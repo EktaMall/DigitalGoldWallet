@@ -1,0 +1,6 @@
+@DigitalGoldAPI_HostAddress = http://localhost:5212
+
+GET {{DigitalGoldAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
